@@ -1,6 +1,6 @@
 # metasploit
 
-[!(https://image.slidesharecdn.com/lohin-190417224736/95/penetration-testing-c-metasploit-framework-qaday-2019-1-638.jpg)]
+[!](https://image.slidesharecdn.com/lohin-190417224736/95/penetration-testing-c-metasploit-framework-qaday-2019-1-638.jpg)
 
 ````
 run post/windows/gather/enum_devices — получить список установленных устройств;
