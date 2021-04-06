@@ -114,7 +114,7 @@ run post/windows/gather/enum_db – Установленные базы данн
 <h1 align="center"> MSF Exploit Dev Cheatsheet </h1> <br>
 <p align="center">
   <a>
-    <a href="https://github.com/Ondrik8/metasploit/blob/master/msf_dev.docx" 
+    <a href="https://github.com/Ondrik8/metasploit/blob/master/msf_dev.docx">
     <img src="https://github.com/redcode-labs/msf_dev_cheatsheet/raw/master/img.png" width="500" height="600">
   </a>
 </p>
