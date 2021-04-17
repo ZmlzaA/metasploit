@@ -7,7 +7,7 @@
 Документация:
 
 https://ptestmethod.readthedocs.io/en/latest/LFF-IPS-P4-PostExploitation.html
-
+https://www.infosecmatter.com/list-of-metasploit-windows-exploits-detailed-spreadsheet/
 ```
 
 ````
