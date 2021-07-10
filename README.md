@@ -7,7 +7,7 @@
 Документация:
 
 https://ptestmethod.readthedocs.io/en/latest/LFF-IPS-P4-PostExploitation.html
-
+https://www.infosecmatter.com/list-of-metasploit-windows-exploits-detailed-spreadsheet/
 ```
 
 ````
@@ -111,3 +111,16 @@ run post/windows/gather/enum_av_excluded – получения программ
 run post/windows/gather/enum_chrome — работа с хром;
 run post/windows/gather/enum_db – Установленные базы данных;
 ````
+<h1 align="center"> MSF Exploit Dev Cheatsheet </h1> <br>
+<p align="center">
+  <a>
+    <a href="https://github.com/Ondrik8/metasploit/blob/master/msf_dev.docx">
+    <img src="https://github.com/redcode-labs/msf_dev_cheatsheet/raw/master/img.png" width="500" height="600">
+  </a>
+</p>
+
+
+
+<p>
+  This document is a reference that congregates various functions, variables, code snippets and tips that are useful when writing exploits using Metasploit Framework. It isn't completed yet (or even half-way done) so each and every pull request is welcome.
+</p>
